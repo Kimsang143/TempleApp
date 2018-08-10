@@ -1,0 +1,14 @@
+{
+  "hello world": "Hola mundo, este es un ejemplo de traducción de idiomas.",
+  "thank you": "Gracias",
+  "Bye": "Adiós",
+
+  	home: 'ទំព័រដើម',
+	changeLanguage: 'ការផ្លាស់ប្ដូរភាសាខ្មែរឬអង់គ្លេស',
+	changeNotifiacation: 'បើកឬបិទការជូនដំណឹង',
+	on: 'បើក',
+	off: 'បិត',
+	khmer: 'ខ្មែរ',
+	english: 'អង់គ្លេស',
+	setting: 'ការកំណត់'
+}
