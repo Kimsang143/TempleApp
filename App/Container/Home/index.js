@@ -7,7 +7,7 @@ export default class Home extends Component {
       <Container>
        
         <Content>
-        <Header />
+       
         <Banner />
    
         </Content>
