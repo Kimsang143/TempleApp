@@ -40,6 +40,7 @@ let data = [
             style={styles.userPic}/>
           <Text style={styles.userName}>{data.user.name}</Text>
         </View>
+        
       )
     }
   },
